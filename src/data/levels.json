@@ -1,0 +1,2636 @@
+[
+  {
+    "name": "Level 1: Elementary 1A",
+    "id": "1A",
+    "questions": [
+      {
+        "id": "1A_1",
+        "type": "MULTIPLE_CHOICE",
+        "question": "We ___ American.",
+        "options": [
+          "not",
+          "not are",
+          "aren’t",
+          "isn’t"
+        ],
+        "correctAnswer": "aren’t"
+      },
+      {
+        "id": "1A_2",
+        "type": "MULTIPLE_CHOICE",
+        "question": "___ this magazine before?",
+        "options": [
+          "Do you read",
+          "Are you going to read",
+          "Are you reading",
+          "Have you read"
+        ],
+        "correctAnswer": "Have you read"
+      },
+      {
+        "id": "1A_3",
+        "type": "MULTIPLE_CHOICE",
+        "question": "This is our new teacher. ___ name is Mark.",
+        "options": [
+          "His",
+          "Her",
+          "Its",
+          "He"
+        ],
+        "correctAnswer": "His"
+      },
+      {
+        "id": "1A_4",
+        "type": "MULTIPLE_CHOICE",
+        "question": "He ___ the newspaper every day.",
+        "options": [
+          "read",
+          "reads",
+          "doesn’t reads",
+          "don’t reads"
+        ],
+        "correctAnswer": "reads"
+      },
+      {
+        "id": "1A_5",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Is Mont Blanc ___ mountain in Europe?",
+        "options": [
+          "the higher",
+          "the most highest",
+          "the more high",
+          "the highest"
+        ],
+        "correctAnswer": "the highest"
+      },
+      {
+        "id": "1A_6",
+        "type": "MULTIPLE_CHOICE",
+        "question": "British people ___ tea with milk.",
+        "options": [
+          "to drink",
+          "drink",
+          "drinks",
+          "are drink"
+        ],
+        "correctAnswer": "drink"
+      },
+      {
+        "id": "1A_7",
+        "type": "MULTIPLE_CHOICE",
+        "question": "___ you like Chinese food?",
+        "options": [
+          "Do",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        "correctAnswer": "Do"
+      },
+      {
+        "id": "1A_8",
+        "type": "MULTIPLE_CHOICE",
+        "question": "It’s my ___ computer.",
+        "options": [
+          "parents",
+          "parents’",
+          "parent",
+          "parent’s"
+        ],
+        "correctAnswer": "parents’"
+      },
+      {
+        "id": "1A_9",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Could we ___ the bill, please?",
+        "options": [
+          "take",
+          "want",
+          "have",
+          "ask"
+        ],
+        "correctAnswer": "have"
+      },
+      {
+        "id": "1A_10",
+        "type": "MULTIPLE_CHOICE",
+        "question": "The people ___ in room 12.",
+        "options": [
+          "is",
+          "am",
+          "are",
+          "be"
+        ],
+        "correctAnswer": "are"
+      },
+      {
+        "id": "1A_11",
+        "type": "MULTIPLE_CHOICE",
+        "question": "It’s ten ___ seven.",
+        "options": [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        "correctAnswer": "to"
+      },
+      {
+        "id": "1A_12",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I ___ to classical music.",
+        "options": [
+          "never to listen",
+          "listen never",
+          "never listen",
+          "don’t never listen"
+        ],
+        "correctAnswer": "never listen"
+      },
+      {
+        "id": "1A_13",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Would you like ___ coffee?",
+        "options": [
+          "other",
+          "another",
+          "some other",
+          "more one"
+        ],
+        "correctAnswer": "another"
+      },
+      {
+        "id": "1A_14",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I haven’t ___ this photo before.",
+        "options": [
+          "see",
+          "saw",
+          "to see",
+          "seen"
+        ],
+        "correctAnswer": "seen"
+      },
+      {
+        "id": "1A_15",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I can’t see. Where are my ___?",
+        "options": [
+          "glasses",
+          "stamps",
+          "keys",
+          "lipsticks"
+        ],
+        "correctAnswer": "glasses"
+      },
+      {
+        "id": "1A_16",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I like ___ in the morning.",
+        "options": [
+          "that I work",
+          "working",
+          "work",
+          "to be work"
+        ],
+        "correctAnswer": "working"
+      },
+      {
+        "id": "1A_17",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Thanks for ___.",
+        "options": [
+          "all",
+          "the all",
+          "everything",
+          "all things"
+        ],
+        "correctAnswer": "everything"
+      },
+      {
+        "id": "1A_18",
+        "type": "MULTIPLE_CHOICE",
+        "question": "‘Was Debussy from France?’ ‘Yes, ___.’",
+        "options": [
+          "he were",
+          "was",
+          "there were",
+          "he was"
+        ],
+        "correctAnswer": "he was"
+      },
+      {
+        "id": "1A_19",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I’m Italian. ___ family are from Venice.",
+        "options": [
+          "Our",
+          "My",
+          "Her",
+          "Me"
+        ],
+        "correctAnswer": "My"
+      },
+      {
+        "id": "1A_20",
+        "type": "MULTIPLE_CHOICE",
+        "question": "What ___ do tomorrow?",
+        "options": [
+          "are you going",
+          "you going",
+          "are you going to",
+          "do you go to"
+        ],
+        "correctAnswer": "are you going to"
+      },
+      {
+        "id": "1A_21",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Can I pay ___ credit card?",
+        "options": [
+          "by",
+          "in",
+          "on",
+          "with"
+        ],
+        "correctAnswer": "by"
+      },
+      {
+        "id": "1A_22",
+        "type": "MULTIPLE_CHOICE",
+        "question": "This isn’t my money. It’s ___.",
+        "options": [
+          "to you",
+          "the yours",
+          "your",
+          "yours"
+        ],
+        "correctAnswer": "yours"
+      },
+      {
+        "id": "1A_23",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Tonight’s dinner is ___ than last night’s.",
+        "options": [
+          "more good",
+          "gooder",
+          "better",
+          "more better"
+        ],
+        "correctAnswer": "better"
+      },
+      {
+        "id": "1A_24",
+        "type": "MULTIPLE_CHOICE",
+        "question": "They’re ___.",
+        "options": [
+          "bigs cars",
+          "cars bigs",
+          "big cars",
+          "bigs car"
+        ],
+        "correctAnswer": "big cars"
+      },
+      {
+        "id": "1A_25",
+        "type": "MULTIPLE_CHOICE",
+        "question": "They didn’t ___ the tickets.",
+        "options": [
+          "booking",
+          "booked",
+          "to book",
+          "book"
+        ],
+        "correctAnswer": "book"
+      },
+      {
+        "id": "1A_26",
+        "type": "MULTIPLE_CHOICE",
+        "question": "___ the time?",
+        "options": [
+          "What’s",
+          "What is it",
+          "What",
+          "What it is"
+        ],
+        "correctAnswer": "What’s"
+      },
+      {
+        "id": "1A_27",
+        "type": "MULTIPLE_CHOICE",
+        "question": "She ___ to the gym every day.",
+        "options": [
+          "gets",
+          "goes",
+          "has",
+          "does"
+        ],
+        "correctAnswer": "goes"
+      },
+      {
+        "id": "1A_28",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I ___ do my homework last night.",
+        "options": [
+          "not could",
+          "didn’t can",
+          "couldn’t",
+          "can’t"
+        ],
+        "correctAnswer": "couldn’t"
+      },
+      {
+        "id": "1A_29",
+        "type": "MULTIPLE_CHOICE",
+        "question": "There ___ telephone in my hotel room.",
+        "options": [
+          "wasn’t a",
+          "weren’t a",
+          "weren’t any",
+          "wasn’t some"
+        ],
+        "correctAnswer": "wasn’t a"
+      },
+      {
+        "id": "1A_30",
+        "type": "MULTIPLE_CHOICE",
+        "question": "He ___ playing the piano.",
+        "options": [
+          "are",
+          "does",
+          "is",
+          "has"
+        ],
+        "correctAnswer": "is"
+      },
+      {
+        "id": "1A_31",
+        "type": "MULTIPLE_CHOICE",
+        "question": "He ___ jeans.",
+        "options": [
+          "doesn’t usually wear",
+          "isn’t usually wearing",
+          "wears usually",
+          "doesn’t wear usually"
+        ],
+        "correctAnswer": "doesn’t usually wear"
+      },
+      {
+        "id": "1A_32",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I ___ my new job last week.",
+        "options": [
+          "have begun",
+          "began",
+          "am begin",
+          "begin"
+        ],
+        "correctAnswer": "began"
+      },
+      {
+        "id": "1A_33",
+        "type": "MULTIPLE_CHOICE",
+        "question": "There isn’t ___ pasta in the kitchen.",
+        "options": [
+          "some",
+          "many",
+          "a",
+          "any"
+        ],
+        "correctAnswer": "any"
+      },
+      {
+        "id": "1A_34",
+        "type": "MULTIPLE_CHOICE",
+        "question": "She ___ to cook for her boyfriend.",
+        "options": [
+          "isn’t going",
+          "isn’t go",
+          "aren’t going",
+          "doesn’t go"
+        ],
+        "correctAnswer": "isn’t going"
+      },
+      {
+        "id": "1A_35",
+        "type": "MULTIPLE_CHOICE",
+        "question": "The elephant is ___ land animal in the world.",
+        "options": [
+          "the bigger",
+          "the most big",
+          "biggest",
+          "the biggest"
+        ],
+        "correctAnswer": "the biggest"
+      },
+      {
+        "id": "1A_36",
+        "type": "MULTIPLE_CHOICE",
+        "question": "___ yesterday?",
+        "options": [
+          "You studied",
+          "Did you studied",
+          "Did you study",
+          "Studied you"
+        ],
+        "correctAnswer": "Did you study"
+      },
+      {
+        "id": "1A_37",
+        "type": "MULTIPLE_CHOICE",
+        "question": "James would like ___ basketball.",
+        "options": [
+          "playing",
+          "to play",
+          "play",
+          "to playing"
+        ],
+        "correctAnswer": "to play"
+      },
+      {
+        "id": "1A_38",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I always ___.",
+        "options": [
+          "work hard",
+          "hard work",
+          "hardly work",
+          "work hardly"
+        ],
+        "correctAnswer": "work hard"
+      },
+      {
+        "id": "1A_39",
+        "type": "MULTIPLE_CHOICE",
+        "question": "We ___ to Canada.",
+        "options": [
+          "haven’t be",
+          "hasn’t been",
+          "hasn’t be",
+          "haven’t been"
+        ],
+        "correctAnswer": "haven’t been"
+      },
+      {
+        "id": "1A_40",
+        "type": "MULTIPLE_CHOICE",
+        "question": "He ___ follow instructions.",
+        "options": [
+          "doesn’t can",
+          "not can",
+          "isn’t can",
+          "can’t"
+        ],
+        "correctAnswer": "can’t"
+      }
+    ]
+  },
+  {
+    "name": "Level 2: Elementary 1B",
+    "id": "1B",
+    "questions": [
+      {
+        "id": "1B_1",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I can’t see. Where are my ___?",
+        "options": [
+          "glasses",
+          "stamps",
+          "keys",
+          "lipsticks"
+        ],
+        "correctAnswer": "glasses"
+      },
+      {
+        "id": "1B_2",
+        "type": "MULTIPLE_CHOICE",
+        "question": "He ___ the newspaper every day.",
+        "options": [
+          "read",
+          "doesn’t reads",
+          "reads",
+          "don’t reads"
+        ],
+        "correctAnswer": "reads"
+      },
+      {
+        "id": "1B_3",
+        "type": "MULTIPLE_CHOICE",
+        "question": "‘Was Picasso from Spain?’ ‘Yes, ___.’",
+        "options": [
+          "he were",
+          "was",
+          "there were",
+          "he was"
+        ],
+        "correctAnswer": "he was"
+      },
+      {
+        "id": "1B_4",
+        "type": "MULTIPLE_CHOICE",
+        "question": "___ you like Italian food?",
+        "options": [
+          "Do",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        "correctAnswer": "Do"
+      },
+      {
+        "id": "1B_5",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I ___ do my homework last night.",
+        "options": [
+          "not could",
+          "didn’t can",
+          "couldn’t",
+          "can’t"
+        ],
+        "correctAnswer": "couldn’t"
+      },
+      {
+        "id": "1B_6",
+        "type": "MULTIPLE_CHOICE",
+        "question": "She ___ to cook for her parents.",
+        "options": [
+          "isn’t going",
+          "isn’t go",
+          "aren’t going",
+          "doesn’t go"
+        ],
+        "correctAnswer": "isn’t going"
+      },
+      {
+        "id": "1B_7",
+        "type": "MULTIPLE_CHOICE",
+        "question": "___ this book before?",
+        "options": [
+          "Do you read",
+          "Are you going to read",
+          "Are you reading",
+          "Have you read"
+        ],
+        "correctAnswer": "Have you read"
+      },
+      {
+        "id": "1B_8",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I’m Japanese. ___ family are from Tokyo.",
+        "options": [
+          "Our",
+          "My",
+          "Her",
+          "Me"
+        ],
+        "correctAnswer": "My"
+      },
+      {
+        "id": "1B_9",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I ___ to pop music.",
+        "options": [
+          "never to listen",
+          "listen never",
+          "never listen",
+          "don’t never listen"
+        ],
+        "correctAnswer": "never listen"
+      },
+      {
+        "id": "1B_10",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Thanks for ___.",
+        "options": [
+          "all",
+          "the all",
+          "everything",
+          "all things"
+        ],
+        "correctAnswer": "everything"
+      },
+      {
+        "id": "1B_11",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Can I pay ___ credit card?",
+        "options": [
+          "by",
+          "in",
+          "on",
+          "with"
+        ],
+        "correctAnswer": "by"
+      },
+      {
+        "id": "1B_12",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Simon would like ___ basketball.",
+        "options": [
+          "playing",
+          "to play",
+          "play",
+          "to playing"
+        ],
+        "correctAnswer": "to play"
+      },
+      {
+        "id": "1B_13",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Today’s breakfast is ___ than yesterday's.",
+        "options": [
+          "more good",
+          "gooder",
+          "better",
+          "more better"
+        ],
+        "correctAnswer": "better"
+      },
+      {
+        "id": "1B_14",
+        "type": "MULTIPLE_CHOICE",
+        "question": "What ___ do tomorrow?",
+        "options": [
+          "are you going",
+          "are you going to",
+          "you going",
+          "do you go to"
+        ],
+        "correctAnswer": "are you going to"
+      },
+      {
+        "id": "1B_15",
+        "type": "MULTIPLE_CHOICE",
+        "question": "This isn’t my umbrella. It’s ___.",
+        "options": [
+          "to you",
+          "the yours",
+          "your",
+          "yours"
+        ],
+        "correctAnswer": "yours"
+      },
+      {
+        "id": "1B_16",
+        "type": "MULTIPLE_CHOICE",
+        "question": "They’re ___.",
+        "options": [
+          "bigs cars",
+          "cars bigs",
+          "big cars",
+          "bigs car"
+        ],
+        "correctAnswer": "big cars"
+      },
+      {
+        "id": "1B_17",
+        "type": "MULTIPLE_CHOICE",
+        "question": "It’s my ___ dog.",
+        "options": [
+          "parents",
+          "parents’",
+          "parent",
+          "parent’s"
+        ],
+        "correctAnswer": "parents’"
+      },
+      {
+        "id": "1B_18",
+        "type": "MULTIPLE_CHOICE",
+        "question": "___ the time?",
+        "options": [
+          "What’s",
+          "What is it",
+          "What",
+          "What it is"
+        ],
+        "correctAnswer": "What’s"
+      },
+      {
+        "id": "1B_19",
+        "type": "MULTIPLE_CHOICE",
+        "question": "British people ___ tea with milk.",
+        "options": [
+          "to drink",
+          "drink",
+          "drinks",
+          "are drink"
+        ],
+        "correctAnswer": "drink"
+      },
+      {
+        "id": "1B_20",
+        "type": "MULTIPLE_CHOICE",
+        "question": "She ___ to the market every day.",
+        "options": [
+          "gets",
+          "has",
+          "goes",
+          "does"
+        ],
+        "correctAnswer": "goes"
+      },
+      {
+        "id": "1B_21",
+        "type": "MULTIPLE_CHOICE",
+        "question": "There ___ telephone in my hotel room.",
+        "options": [
+          "wasn’t a",
+          "weren’t a",
+          "weren’t any",
+          "wasn’t some"
+        ],
+        "correctAnswer": "wasn’t a"
+      },
+      {
+        "id": "1B_22",
+        "type": "MULTIPLE_CHOICE",
+        "question": "He ___ glasses.",
+        "options": [
+          "doesn’t usually wear",
+          "isn’t usually wearing",
+          "wears usually",
+          "doesn’t wear usually"
+        ],
+        "correctAnswer": "doesn’t usually wear"
+      },
+      {
+        "id": "1B_23",
+        "type": "MULTIPLE_CHOICE",
+        "question": "He ___ follow instructions.",
+        "options": [
+          "doesn’t can",
+          "not can",
+          "isn’t can",
+          "can’t"
+        ],
+        "correctAnswer": "can’t"
+      },
+      {
+        "id": "1B_24",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I ___ my new job last month.",
+        "options": [
+          "have begun",
+          "began",
+          "am begin",
+          "begin"
+        ],
+        "correctAnswer": "began"
+      },
+      {
+        "id": "1B_25",
+        "type": "MULTIPLE_CHOICE",
+        "question": "He ___ playing the guitar.",
+        "options": [
+          "are",
+          "does",
+          "is",
+          "has"
+        ],
+        "correctAnswer": "is"
+      },
+      {
+        "id": "1B_26",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Could we ___ the bill, please?",
+        "options": [
+          "take",
+          "want",
+          "have",
+          "ask"
+        ],
+        "correctAnswer": "have"
+      },
+      {
+        "id": "1B_27",
+        "type": "MULTIPLE_CHOICE",
+        "question": "There isn’t ___ bread in the kitchen.",
+        "options": [
+          "some",
+          "many",
+          "a",
+          "any"
+        ],
+        "correctAnswer": "any"
+      },
+      {
+        "id": "1B_28",
+        "type": "MULTIPLE_CHOICE",
+        "question": "We ___ to Mexico.",
+        "options": [
+          "haven’t be",
+          "haven’t been",
+          "hasn’t be",
+          "hasn’t been"
+        ],
+        "correctAnswer": "haven’t been"
+      },
+      {
+        "id": "1B_29",
+        "type": "MULTIPLE_CHOICE",
+        "question": "The elephant is ___ land animal in the world.",
+        "options": [
+          "the bigger",
+          "the most big",
+          "biggest",
+          "the biggest"
+        ],
+        "correctAnswer": "the biggest"
+      },
+      {
+        "id": "1B_30",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I always ___.",
+        "options": [
+          "work hard",
+          "hard work",
+          "hardly work",
+          "work hardly"
+        ],
+        "correctAnswer": "work hard"
+      },
+      {
+        "id": "1B_31",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Is Mount Everest ___ mountain in the world?",
+        "options": [
+          "the higher",
+          "the most highest",
+          "the more high",
+          "the highest"
+        ],
+        "correctAnswer": "the highest"
+      },
+      {
+        "id": "1B_32",
+        "type": "MULTIPLE_CHOICE",
+        "question": "___ yesterday?",
+        "options": [
+          "You studied",
+          "Did you study",
+          "Did you studied",
+          "Studied you"
+        ],
+        "correctAnswer": "Did you study"
+      },
+      {
+        "id": "1B_33",
+        "type": "MULTIPLE_CHOICE",
+        "question": "The people ___ in room 5.",
+        "options": [
+          "is",
+          "am",
+          "are",
+          "be"
+        ],
+        "correctAnswer": "are"
+      },
+      {
+        "id": "1B_34",
+        "type": "MULTIPLE_CHOICE",
+        "question": "This is our new teacher. ___ name is Charles.",
+        "options": [
+          "His",
+          "Her",
+          "Its",
+          "He"
+        ],
+        "correctAnswer": "His"
+      },
+      {
+        "id": "1B_35",
+        "type": "MULTIPLE_CHOICE",
+        "question": "We ___ Scottish.",
+        "options": [
+          "not",
+          "not are",
+          "aren’t",
+          "isn’t"
+        ],
+        "correctAnswer": "aren’t"
+      },
+      {
+        "id": "1B_36",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I like ___ in the evening.",
+        "options": [
+          "that I work",
+          "working",
+          "work",
+          "to be work"
+        ],
+        "correctAnswer": "working"
+      },
+      {
+        "id": "1B_37",
+        "type": "MULTIPLE_CHOICE",
+        "question": "It’s ten ___ nine.",
+        "options": [
+          "to",
+          "for",
+          "at",
+          "at"
+        ],
+        "correctAnswer": "to"
+      },
+      {
+        "id": "1B_38",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Would you like ___ drink?",
+        "options": [
+          "other",
+          "another",
+          "some other",
+          "more one"
+        ],
+        "correctAnswer": "another"
+      },
+      {
+        "id": "1B_39",
+        "type": "MULTIPLE_CHOICE",
+        "question": "They didn’t ___ the tickets.",
+        "options": [
+          "booking",
+          "booked",
+          "to book",
+          "book"
+        ],
+        "correctAnswer": "book"
+      },
+      {
+        "id": "1B_40",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I haven’t ___ this picture before.",
+        "options": [
+          "seen",
+          "saw",
+          "to see",
+          "see"
+        ],
+        "correctAnswer": "seen"
+      }
+    ]
+  },
+  {
+    "name": "Level 3: Pre-Intermediate 2A",
+    "id": "2A",
+    "questions": [
+      {
+        "id": "2A_1",
+        "type": "MULTIPLE_CHOICE",
+        "question": "It ___ when they went out.",
+        "options": [
+          "has rained",
+          "was raining",
+          "is raining",
+          "was to rain"
+        ],
+        "correctAnswer": "was raining"
+      },
+      {
+        "id": "2A_2",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Did you ___ TV last night?",
+        "options": [
+          "watch",
+          "see",
+          "look at",
+          "listen"
+        ],
+        "correctAnswer": "watch"
+      },
+      {
+        "id": "2A_3",
+        "type": "MULTIPLE_CHOICE",
+        "question": "That’s the hotel ___ we had lunch.",
+        "options": [
+          "what",
+          "where",
+          "that",
+          "which"
+        ],
+        "correctAnswer": "where"
+      },
+      {
+        "id": "2A_4",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Diana ___ some wine when she went to France.",
+        "options": [
+          "bought",
+          "buyed",
+          "boot",
+          "did buy"
+        ],
+        "correctAnswer": "bought"
+      },
+      {
+        "id": "2A_5",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I don’t get ___ very well with my brother.",
+        "options": [
+          "by",
+          "from",
+          "on",
+          "to"
+        ],
+        "correctAnswer": "on"
+      },
+      {
+        "id": "2A_6",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Tom always ___ golf on Sundays.",
+        "options": [
+          "plays",
+          "play",
+          "play",
+          "is plays"
+        ],
+        "correctAnswer": "plays"
+      },
+      {
+        "id": "2A_7",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Mary ___ a key when she was cleaning her car.",
+        "options": [
+          "was finding",
+          "finded",
+          "founded",
+          "found"
+        ],
+        "correctAnswer": "found"
+      },
+      {
+        "id": "2A_8",
+        "type": "MULTIPLE_CHOICE",
+        "question": "___ I worked hard, I didn’t pass the test.",
+        "options": [
+          "Although",
+          "So",
+          "Because",
+          "But"
+        ],
+        "correctAnswer": "Although"
+      },
+      {
+        "id": "2A_9",
+        "type": "MULTIPLE_CHOICE",
+        "question": "My parents ___ to stay with us next week.",
+        "options": [
+          "comes",
+          "coming",
+          "is coming",
+          "are coming"
+        ],
+        "correctAnswer": "are coming"
+      },
+      {
+        "id": "2A_10",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Come on, it’s time ___.",
+        "options": [
+          "to go",
+          "going",
+          "we go",
+          "go"
+        ],
+        "correctAnswer": "to go"
+      },
+      {
+        "id": "2A_11",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Can you look ___ my dog this weekend?",
+        "options": [
+          "with",
+          "away",
+          "up",
+          "after"
+        ],
+        "correctAnswer": "after"
+      },
+      {
+        "id": "2A_12",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Who ___ the answer to this question?",
+        "options": [
+          "knows",
+          "know",
+          "does know",
+          "does knows"
+        ],
+        "correctAnswer": "knows"
+      },
+      {
+        "id": "2A_13",
+        "type": "MULTIPLE_CHOICE",
+        "question": "When I got to work I remembered that ___ my mobile at home.",
+        "options": [
+          "I’d leave",
+          "I was leaving",
+          "I’d left",
+          "I left"
+        ],
+        "correctAnswer": "I’d left"
+      },
+      {
+        "id": "2A_14",
+        "type": "MULTIPLE_CHOICE",
+        "question": "My father ___ be a builder.",
+        "options": [
+          "used to",
+          "was",
+          "use to",
+          "did use to"
+        ],
+        "correctAnswer": "used to"
+      },
+      {
+        "id": "2A_15",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I haven’t tidied my office ___.",
+        "options": [
+          "just",
+          "already",
+          "yet",
+          "since"
+        ],
+        "correctAnswer": "yet"
+      },
+      {
+        "id": "2A_16",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I can sing, but not as ___ as my sister.",
+        "options": [
+          "well",
+          "good",
+          "best",
+          "better"
+        ],
+        "correctAnswer": "well"
+      },
+      {
+        "id": "2A_17",
+        "type": "MULTIPLE_CHOICE",
+        "question": "That’s my money! Give ___!",
+        "options": [
+          "back",
+          "it back",
+          "back it",
+          "it"
+        ],
+        "correctAnswer": "it back"
+      },
+      {
+        "id": "2A_18",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Richard isn’t very good ___.",
+        "options": [
+          "to dance",
+          "at dancing",
+          "dancing",
+          "dance"
+        ],
+        "correctAnswer": "at dancing"
+      },
+      {
+        "id": "2A_19",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I’m sure Canada isn’t as big ___ Russia.",
+        "options": [
+          "as",
+          "than",
+          "to",
+          "like"
+        ],
+        "correctAnswer": "as"
+      },
+      {
+        "id": "2A_20",
+        "type": "MULTIPLE_CHOICE",
+        "question": "It’s important ___ too much alcohol.",
+        "options": [
+          "not to drinking",
+          "not to drink",
+          "not drink",
+          "not drinks"
+        ],
+        "correctAnswer": "not to drink"
+      },
+      {
+        "id": "2A_21",
+        "type": "MULTIPLE_CHOICE",
+        "question": "We ___ take a map.",
+        "options": [
+          "should",
+          "should to",
+          "might to",
+          "might"
+        ],
+        "correctAnswer": "should"
+      },
+      {
+        "id": "2A_22",
+        "type": "MULTIPLE_CHOICE",
+        "question": "___ dinner in a restaurant today.",
+        "options": [
+          "I have",
+          "I having",
+          "I’m having",
+          "I’m to have"
+        ],
+        "correctAnswer": "I’m having"
+      },
+      {
+        "id": "2A_23",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Cameras aren’t allowed here – you ___ take photos.",
+        "options": [
+          "mustn’t",
+          "don’t have to",
+          "must not to",
+          "have to"
+        ],
+        "correctAnswer": "mustn’t"
+      },
+      {
+        "id": "2A_24",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Pam ___ eat cheese, but she does now.",
+        "options": [
+          "didn’t used to",
+          "did use to",
+          "didn’t use to",
+          "wasn’t to"
+        ],
+        "correctAnswer": "didn’t use to"
+      },
+      {
+        "id": "2A_25",
+        "type": "MULTIPLE_CHOICE",
+        "question": "We ___ late and the game had already started.",
+        "options": [
+          "arrived",
+          "had arrived",
+          "didn’t arrive",
+          "were arriving"
+        ],
+        "correctAnswer": "arrived"
+      },
+      {
+        "id": "2A_26",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Your diet is terrible. You don’t eat _______.",
+        "options": [
+          "many vegetables",
+          "enough vegetables",
+          "vegetables enough",
+          "many vegetable"
+        ],
+        "correctAnswer": "enough vegetables"
+      },
+      {
+        "id": "2A_27",
+        "type": "MULTIPLE_CHOICE",
+        "question": "If we had the money, we ___ get a taxi.",
+        "options": [
+          "will can",
+          "can",
+          "would can",
+          "could"
+        ],
+        "correctAnswer": "could"
+      },
+      {
+        "id": "2A_28",
+        "type": "MULTIPLE_CHOICE",
+        "question": "___ my best friend since 1999.",
+        "options": [
+          "I’ve known",
+          "I knew",
+          "I’m knowing",
+          "I know"
+        ],
+        "correctAnswer": "I’ve known"
+      },
+      {
+        "id": "2A_29",
+        "type": "MULTIPLE_CHOICE",
+        "question": "You ___ the new café in town. The coffee’s terrible.",
+        "options": [
+          "aren’t like",
+          "won’t like",
+          "isn’t like",
+          "won’t liking"
+        ],
+        "correctAnswer": "won’t like"
+      },
+      {
+        "id": "2A_30",
+        "type": "MULTIPLE_CHOICE",
+        "question": "There’s always a lot of traffic going ___ the bridge.",
+        "options": [
+          "over",
+          "in",
+          "at",
+          "through"
+        ],
+        "correctAnswer": "over"
+      },
+      {
+        "id": "2A_31",
+        "type": "MULTIPLE_CHOICE",
+        "question": "This road was built ___ the Romans.",
+        "options": [
+          "of",
+          "for",
+          "by",
+          "with"
+        ],
+        "correctAnswer": "by"
+      },
+      {
+        "id": "2A_32",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Michelangelo ___ some of his best works in Rome.",
+        "options": [
+          "painted",
+          "was painted",
+          "is painting",
+          "has painted"
+        ],
+        "correctAnswer": "painted"
+      },
+      {
+        "id": "2A_33",
+        "type": "MULTIPLE_CHOICE",
+        "question": "You eat ___ chocolate – you really should give up.",
+        "options": [
+          "too much",
+          "enough",
+          "very many",
+          "much"
+        ],
+        "correctAnswer": "too much"
+      },
+      {
+        "id": "2A_34",
+        "type": "MULTIPLE_CHOICE",
+        "question": "How ___ your name?",
+        "options": [
+          "is it pronounced",
+          "you pronounce",
+          "do you pronounce",
+          "to pronounce"
+        ],
+        "correctAnswer": "do you pronounce"
+      },
+      {
+        "id": "2A_35",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I ___ come to the party tonight.",
+        "options": [
+          "might not",
+          "b don’t might",
+          "don’t to",
+          "not"
+        ],
+        "correctAnswer": "might not"
+      },
+      {
+        "id": "2A_36",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I’m really tired – I only got ___ hours’ sleep.",
+        "options": [
+          "not many",
+          "a few",
+          "a little",
+          "few"
+        ],
+        "correctAnswer": "a few"
+      },
+      {
+        "id": "2A_37",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Your papers are on the floor. Why don’t you ___?",
+        "options": [
+          "pick them up",
+          "pick up them",
+          "pick up to them",
+          "pick them"
+        ],
+        "correctAnswer": "pick them up"
+      },
+      {
+        "id": "2A_38",
+        "type": "MULTIPLE_CHOICE",
+        "question": "If you take your time, ___ the right decision.",
+        "options": [
+          "you make",
+          "you’d make",
+          "you'll make",
+          "you’re making"
+        ],
+        "correctAnswer": "you'll make"
+      },
+      {
+        "id": "2A_39",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I ___ the museum because I hadn’t brought a map.",
+        "options": [
+          "couldn’t find",
+          "couldn’t to find",
+          "can’t find",
+          "hadn’t found"
+        ],
+        "correctAnswer": "couldn’t find"
+      },
+      {
+        "id": "2A_40",
+        "type": "MULTIPLE_CHOICE",
+        "question": "She told me ___ number, but I can’t remember it.",
+        "options": [
+          "my",
+          "his",
+          "her",
+          "hers"
+        ],
+        "correctAnswer": "her"
+      }
+    ]
+  },
+  {
+    "name": "Level 4: Upper-Intermediate B2",
+    "id": "B2",
+    "questions": [
+      {
+        "id": "B2_1",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I __________ to be picking Tom up at the station but I’ve lost my keys.",
+        "options": [
+          "am supposed",
+          "am requested",
+          "am intended",
+          "am obliged"
+        ],
+        "correctAnswer": "am supposed"
+      },
+      {
+        "id": "B2_2",
+        "type": "MULTIPLE_CHOICE",
+        "question": "How about going to Colours nightclub? There’s no __________ I’m going there. It’s awful!",
+        "options": [
+          "hope",
+          "way",
+          "time",
+          "opportunity"
+        ],
+        "correctAnswer": "way"
+      },
+      {
+        "id": "B2_3",
+        "type": "MULTIPLE_CHOICE",
+        "question": "By the age of 18,I __________ not to go to university.",
+        "options": [
+          "had decided",
+          "decided",
+          "have decided",
+          "was deciding"
+        ],
+        "correctAnswer": "had decided"
+      },
+      {
+        "id": "B2_4",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I’m afraid your car __________ repaired before next week.",
+        "options": [
+          "hasn’t been",
+          "wasn’t",
+          "wouldn’t be",
+          "can’t be"
+        ],
+        "correctAnswer": "can’t be"
+      },
+      {
+        "id": "B2_5",
+        "type": "MULTIPLE_CHOICE",
+        "question": "The amount of organically grown food on sale has __________ enormously in recent years.",
+        "options": [
+          "raised",
+          "lifted",
+          "increased",
+          "built"
+        ],
+        "correctAnswer": "increased"
+      },
+      {
+        "id": "B2_6",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Can you believe it? A woman has been __________ for hacking into the computer of her online virtual husband.",
+        "options": [
+          "accused",
+          "suspended",
+          "arrested",
+          "suspected"
+        ],
+        "correctAnswer": "arrested"
+      },
+      {
+        "id": "B2_7",
+        "type": "MULTIPLE_CHOICE",
+        "question": "You may borrow my laptop __________ you promise to look after it.",
+        "options": [
+          "unless",
+          "in case",
+          "as long as",
+          "although"
+        ],
+        "correctAnswer": "as long as"
+      },
+      {
+        "id": "B2_8",
+        "type": "MULTIPLE_CHOICE",
+        "question": "It’s a huge painting. It __________ taken ages to complete.",
+        "options": [
+          "must have",
+          "can’t have",
+          "should have",
+          "won’t have"
+        ],
+        "correctAnswer": "must have"
+      },
+      {
+        "id": "B2_9",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Pierre tends to put __________ dealing with problems, rather than dealing with them immediately.",
+        "options": [
+          "down",
+          "off",
+          "over",
+          "away"
+        ],
+        "correctAnswer": "off"
+      },
+      {
+        "id": "B2_10",
+        "type": "MULTIPLE_CHOICE",
+        "question": "If the taxi hadn’t stopped for us, we __________ standing in the rain.",
+        "options": [
+          "were still",
+          "would still be",
+          "are still",
+          "will still be"
+        ],
+        "correctAnswer": "would still be"
+      },
+      {
+        "id": "B2_11",
+        "type": "MULTIPLE_CHOICE",
+        "question": "My mother’s Italian, so __________ the language has been quite easy for me.",
+        "options": [
+          "to learn",
+          "learn",
+          "having learned",
+          "learning"
+        ],
+        "correctAnswer": "learning"
+      },
+      {
+        "id": "B2_12",
+        "type": "MULTIPLE_CHOICE",
+        "question": "__________ I had the talent, I still wouldn’t want to be a movie star.",
+        "options": [
+          "In case",
+          "Even if",
+          "Provided that",
+          "However much"
+        ],
+        "correctAnswer": "Even if"
+      },
+      {
+        "id": "B2_13",
+        "type": "MULTIPLE_CHOICE",
+        "question": "The factory workers threatened __________ on strike if they didn’t get a pay rise.",
+        "options": [
+          "going",
+          "to go",
+          "that they go",
+          "to have gone"
+        ],
+        "correctAnswer": "to go"
+      },
+      {
+        "id": "B2_14",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I was about to go to sleep when it __________ to me where the missing keys might be.",
+        "options": [
+          "remembered",
+          "happened",
+          "appeared",
+          "occurred"
+        ],
+        "correctAnswer": "occurred"
+      },
+      {
+        "id": "B2_15",
+        "type": "MULTIPLE_CHOICE",
+        "question": "There’s going to be a new department at work. They’ve asked me to __________ it up.",
+        "options": [
+          "take",
+          "set",
+          "put",
+          "bring"
+        ],
+        "correctAnswer": "set"
+      },
+      {
+        "id": "B2_16",
+        "type": "MULTIPLE_CHOICE",
+        "question": "If the film is a __________ success, the director will get most of the credit.",
+        "options": [
+          "big",
+          "high",
+          "large",
+          "good"
+        ],
+        "correctAnswer": "big"
+      },
+      {
+        "id": "B2_17",
+        "type": "MULTIPLE_CHOICE",
+        "question": "By the end of today’s seminar I will __________ to each of you individually.",
+        "options": [
+          "speak",
+          "have spoken",
+          "be speaking",
+          "have been speaking"
+        ],
+        "correctAnswer": "have spoken"
+      },
+      {
+        "id": "B2_18",
+        "type": "MULTIPLE_CHOICE",
+        "question": "This is a photo of my little sister __________ ice cream on the beach.",
+        "options": [
+          "eat",
+          "eating",
+          "was eating",
+          "having eaten"
+        ],
+        "correctAnswer": "eating"
+      },
+      {
+        "id": "B2_19",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Our students take their responsibilities very __________ .",
+        "options": [
+          "considerably",
+          "thoroughly",
+          "seriously",
+          "strongly"
+        ],
+        "correctAnswer": "seriously"
+      },
+      {
+        "id": "B2_20",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Piawas _____ delighted with the birthday present.",
+        "options": [
+          "very",
+          "completely",
+          "fairly",
+          "absolutely"
+        ],
+        "correctAnswer": "absolutely"
+      }
+    ]
+  },
+  {
+    "name": "Level 5: Advanced C1",
+    "id": "C1",
+    "questions": [
+      {
+        "id": "C1_1",
+        "type": "MULTIPLE_CHOICE",
+        "question": "People were amazed that the burglary took place in _____ daylight.",
+        "options": [
+          "wide",
+          "broad",
+          "large",
+          "open"
+        ],
+        "correctAnswer": "broad"
+      },
+      {
+        "id": "C1_2",
+        "type": "MULTIPLE_CHOICE",
+        "question": "She invested a lot of time _____ researching the most appropriate university course.",
+        "options": [
+          "to",
+          "for",
+          "with",
+          "in"
+        ],
+        "correctAnswer": "in"
+      },
+      {
+        "id": "C1_3",
+        "type": "MULTIPLE_CHOICE",
+        "question": "The police claimed that they acted in self _____ .",
+        "options": [
+          "interest",
+          "confidence",
+          "defence",
+          "discipline"
+        ],
+        "correctAnswer": "defence"
+      },
+      {
+        "id": "C1_4",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I _____ remember putting my briefcase down on that shelf.",
+        "options": [
+          "deeply",
+          "entirely",
+          "clearly",
+          "strongly"
+        ],
+        "correctAnswer": "clearly"
+      },
+      {
+        "id": "C1_5",
+        "type": "MULTIPLE_CHOICE",
+        "question": "He turned _____ to be considerably older than 1 had imagined.",
+        "options": [
+          "over",
+          "up",
+          "out",
+          "round"
+        ],
+        "correctAnswer": "out"
+      },
+      {
+        "id": "C1_6",
+        "type": "MULTIPLE_CHOICE",
+        "question": "The windows in this house are in urgent _____ of replacement.",
+        "options": [
+          "need",
+          "help",
+          "want",
+          "demand"
+        ],
+        "correctAnswer": "need"
+      },
+      {
+        "id": "C1_7",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Speed cameras _____ shown to reduce accidents.",
+        "options": [
+          "have",
+          "were being",
+          "have been",
+          "are being"
+        ],
+        "correctAnswer": "have been"
+      },
+      {
+        "id": "C1_8",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Life is a _____ deal easier for immigrants who can speak the local language.",
+        "options": [
+          "far",
+          "huge",
+          "big",
+          "great"
+        ],
+        "correctAnswer": "great"
+      },
+      {
+        "id": "C1_9",
+        "type": "MULTIPLE_CHOICE",
+        "question": "The experiment _____ testing people’s responses before and after drinking coffee.",
+        "options": [
+          "contained",
+          "incorporated",
+          "involved",
+          "consisted"
+        ],
+        "correctAnswer": "involved"
+      },
+      {
+        "id": "C1_10",
+        "type": "MULTIPLE_CHOICE",
+        "question": "We may be a bit late. We’re _____ in a traffic jam.",
+        "options": [
+          "buried",
+          "stuck",
+          "blocked",
+          "surrounded"
+        ],
+        "correctAnswer": "stuck"
+      },
+      {
+        "id": "C1_11",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Having _____ his driving test several times, Paul finally passed at the fourth attempt.",
+        "options": [
+          "taken",
+          "made",
+          "had",
+          "attended"
+        ],
+        "correctAnswer": "taken"
+      },
+      {
+        "id": "C1_12",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Gospel music has been a major influence _____ other musical styles, especially soul.",
+        "options": [
+          "with",
+          "to",
+          "about",
+          "on"
+        ],
+        "correctAnswer": "on"
+      },
+      {
+        "id": "C1_13",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Maintaining an accurate balance sheet is essential. _____ business you’re in.",
+        "options": [
+          "however",
+          "wherever",
+          "whatever",
+          "whenever"
+        ],
+        "correctAnswer": "whatever"
+      },
+      {
+        "id": "C1_14",
+        "type": "MULTIPLE_CHOICE",
+        "question": "It’s _____ likely that this novel will win a literary prize.",
+        "options": [
+          "totally",
+          "deeply",
+          "strongly",
+          "highly"
+        ],
+        "correctAnswer": "highly"
+      },
+      {
+        "id": "C1_15",
+        "type": "MULTIPLE_CHOICE",
+        "question": "It’s no __________ for me to get Brad’s phone number - I’ll be seeing him tonight.",
+        "options": [
+          "point",
+          "wonder",
+          "secret",
+          "problem"
+        ],
+        "correctAnswer": "problem"
+      },
+      {
+        "id": "C1_16",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I’d lived in Australia, so I was used to __________ on the left side of the road.",
+        "options": [
+          "driving",
+          "drive",
+          "having driven",
+          "drove"
+        ],
+        "correctAnswer": "driving"
+      },
+      {
+        "id": "C1_17",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I don’t think the colours in Julia’s outfit _____ together.",
+        "options": [
+          "fit",
+          "suit",
+          "match",
+          "go"
+        ],
+        "correctAnswer": "go"
+      },
+      {
+        "id": "C1_18",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Very rarely _____ here in July.",
+        "options": [
+          "it rains",
+          "does it rain",
+          "is it raining",
+          "it is raining"
+        ],
+        "correctAnswer": "does it rain"
+      },
+      {
+        "id": "C1_19",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I prefer to buy CDs __________ download music from my computer.",
+        "options": [
+          "in contrast to",
+          "as opposed to",
+          "rather than",
+          "in comparison to"
+        ],
+        "correctAnswer": "rather than"
+      },
+      {
+        "id": "C1_20",
+        "type": "MULTIPLE_CHOICE",
+        "question": "The number of turtles on the island __________ by 70% over the last decade.",
+        "options": [
+          "has declined",
+          "has been declining",
+          "has been declined",
+          "is declining"
+        ],
+        "correctAnswer": "has declined"
+      }
+    ]
+  },
+  {
+    "name": "Level 6: Proficiency C2 (Test 1)",
+    "id": "C2T1",
+    "questions": [
+      {
+        "id": "C2_1_1",
+        "type": "MULTIPLE_CHOICE",
+        "question": "______, he always has difficulty in making ends meet.",
+        "options": [
+          "How much work he takes on",
+          "How he takes on a lot of work",
+          "How much work does he take on",
+          "However much work he takes on"
+        ],
+        "correctAnswer": "However much work he takes on"
+      },
+      {
+        "id": "C2_1_2",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Since the law works so slowly, there is a considerable ______ of cases waiting for trial.",
+        "options": [
+          "remainder",
+          "hangover",
+          "backlog",
+          "reserve"
+        ],
+        "correctAnswer": "backlog"
+      },
+      {
+        "id": "C2_1_3",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Hardly ______ under the shower when the phone rang.",
+        "options": [
+          "had he got",
+          "he has got",
+          "he got",
+          "he was getting"
+        ],
+        "correctAnswer": "had he got"
+      },
+      {
+        "id": "C2_1_4",
+        "type": "MULTIPLE_CHOICE",
+        "question": "They don’t work the same shift any longer, but they still meet ______ in the canteen.",
+        "options": [
+          "in time",
+          "at the same time",
+          "from time to time",
+          "on time"
+        ],
+        "correctAnswer": "from time to time"
+      },
+      {
+        "id": "C2_1_5",
+        "type": "MULTIPLE_CHOICE",
+        "question": "The more he does for her, ______.",
+        "options": [
+          "she seems dissatisfied",
+          "the more dissatisfied she seems",
+          "she’s seeming dissatisfied",
+          "she seems more dissatisfied"
+        ],
+        "correctAnswer": "the more dissatisfied she seems"
+      },
+      {
+        "id": "C2_1_6",
+        "type": "MULTIPLE_CHOICE",
+        "question": "You had nothing better to do. You ______ a hand with moving the furniture!",
+        "options": [
+          "would have given",
+          "had to give",
+          "should give",
+          "might have given"
+        ],
+        "correctAnswer": "might have given"
+      },
+      {
+        "id": "C2_1_7",
+        "type": "MULTIPLE_CHOICE",
+        "question": "By the time she realizes what’s going on, the little money they’ve managed to save over the years ______ on another woman.",
+        "options": [
+          "will have spent",
+          "will have been spent",
+          "is spending",
+          "has been spent"
+        ],
+        "correctAnswer": "will have been spent"
+      },
+      {
+        "id": "C2_1_8",
+        "type": "MULTIPLE_CHOICE",
+        "question": "If his boss ______ him telling a competitor about their new products, he would still have a job.",
+        "options": [
+          "hadn’t caught",
+          "wouldn’t have caught",
+          "didn’t catch",
+          "wouldn’t catch"
+        ],
+        "correctAnswer": "hadn’t caught"
+      },
+      {
+        "id": "C2_1_9",
+        "type": "MULTIPLE_CHOICE",
+        "question": "______ my colleagues, I would like to thank you for everything you have done for us.",
+        "options": [
+          "On behalf of",
+          "Instead of",
+          "In spite of",
+          "On account of"
+        ],
+        "correctAnswer": "On behalf of"
+      },
+      {
+        "id": "C2_1_10",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Can you give me a rough ______ of what the job might cost me?",
+        "options": [
+          "calculating",
+          "value",
+          "estimate",
+          "esteem"
+        ],
+        "correctAnswer": "estimate"
+      },
+      {
+        "id": "C2_1_11",
+        "type": "MULTIPLE_CHOICE",
+        "question": "He’d hate to work in an office. He’d prefer a job that allowed him to spend most of his time ______.",
+        "options": [
+          "in air",
+          "off limits",
+          "in open",
+          "out of doors"
+        ],
+        "correctAnswer": "out of doors"
+      },
+      {
+        "id": "C2_1_12",
+        "type": "MULTIPLE_CHOICE",
+        "question": "______ for her support and help, he would have given up years ago.",
+        "options": [
+          "Unless it was",
+          "Had it not been",
+          "If she hadn’t been",
+          "If it were"
+        ],
+        "correctAnswer": "Had it not been"
+      },
+      {
+        "id": "C2_1_13",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Don’t you like it? I was ______ you liked Indian food.",
+        "options": [
+          "off the idea",
+          "thinking",
+          "in response to",
+          "under the impression"
+        ],
+        "correctAnswer": "under the impression"
+      },
+      {
+        "id": "C2_1_14",
+        "type": "MULTIPLE_CHOICE",
+        "question": "The article you want is ______ It should take about twenty working days to arrive. Shall I order it for you?",
+        "options": [
+          "out of sale",
+          "out of stock",
+          "on order",
+          "in stock"
+        ],
+        "correctAnswer": "out of stock"
+      },
+      {
+        "id": "C2_1_15",
+        "type": "MULTIPLE_CHOICE",
+        "question": "He is well ______ of the problems involved in setting up a business.",
+        "options": [
+          "acquainted",
+          "knowledgeable",
+          "learned",
+          "aware"
+        ],
+        "correctAnswer": "aware"
+      },
+      {
+        "id": "C2_1_16",
+        "type": "MULTIPLE_CHOICE",
+        "question": "She seems a lively, fun-loving person, but it would be a great mistake to ______ her intelligence.",
+        "options": [
+          "underrate",
+          "despise",
+          "depreciate",
+          "devalue"
+        ],
+        "correctAnswer": "underrate"
+      },
+      {
+        "id": "C2_1_17",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Your name ______ up in the course of our conversation.",
+        "options": [
+          "brought",
+          "came",
+          "got",
+          "took"
+        ],
+        "correctAnswer": "came"
+      },
+      {
+        "id": "C2_1_18",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Those trainers have ______. Why don’t you get a new pair?",
+        "options": [
+          "gone off",
+          "expired",
+          "dropped off",
+          "seen better days"
+        ],
+        "correctAnswer": "seen better days"
+      },
+      {
+        "id": "C2_1_19",
+        "type": "MULTIPLE_CHOICE",
+        "question": "She wasn’t helped. She did it ______.",
+        "options": [
+          "off-hand",
+          "with slight of hand",
+          "single-handed",
+          "with one hand"
+        ],
+        "correctAnswer": "single-handed"
+      },
+      {
+        "id": "C2_1_20",
+        "type": "MULTIPLE_CHOICE",
+        "question": "You’re living in a world of make-believe! You’ll have to ______ up to facts sooner or later.",
+        "options": [
+          "come",
+          "bring",
+          "look",
+          "face"
+        ],
+        "correctAnswer": "face"
+      },
+      {
+        "id": "C2_1_21",
+        "type": "MULTIPLE_CHOICE",
+        "question": "They treated you very badly. Aren’t you tempted to ______ in some way?",
+        "options": [
+          "win them again",
+          "go round the bend",
+          "get your own back",
+          "give them back"
+        ],
+        "correctAnswer": "get your own back"
+      },
+      {
+        "id": "C2_1_22",
+        "type": "MULTIPLE_CHOICE",
+        "question": "It’s a formal wedding, so my husband and I will have to ______.",
+        "options": [
+          "get dressed",
+          "dress up",
+          "wear our birthday suits",
+          "wear dresses"
+        ],
+        "correctAnswer": "dress up"
+      },
+      {
+        "id": "C2_1_23",
+        "type": "MULTIPLE_CHOICE",
+        "question": "She ______ a rage when she saw the mess they’d made.",
+        "options": [
+          "flew into",
+          "went off",
+          "blew up",
+          "came into"
+        ],
+        "correctAnswer": "flew into"
+      },
+      {
+        "id": "C2_1_24",
+        "type": "MULTIPLE_CHOICE",
+        "question": "She never comes here now. We only see her ______.",
+        "options": [
+          "when the cows come home",
+          "once in a blue moon",
+          "time and time again",
+          "once upon a time"
+        ],
+        "correctAnswer": "once in a blue moon"
+      },
+      {
+        "id": "C2_1_25",
+        "type": "MULTIPLE_CHOICE",
+        "question": "The news of the robbery soon ______.",
+        "options": [
+          "broke out",
+          "came over",
+          "spread out",
+          "got round"
+        ],
+        "correctAnswer": "got round"
+      },
+      {
+        "id": "C2_1_26",
+        "type": "MULTIPLE_CHOICE",
+        "question": "John’s doctor says he is ______ a nervous breakdown.",
+        "options": [
+          "closed to",
+          "on edge",
+          "nearby",
+          "on the verge of"
+        ],
+        "correctAnswer": "on the verge of"
+      },
+      {
+        "id": "C2_1_27",
+        "type": "MULTIPLE_CHOICE",
+        "question": "One little mistake shouldn’t ______ again.",
+        "options": [
+          "stop you to try",
+          "put you off trying",
+          "prevent you to try",
+          "get you off"
+        ],
+        "correctAnswer": "put you off trying"
+      },
+      {
+        "id": "C2_1_28",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I thought her behaviour was very out of ______.",
+        "options": [
+          "mind",
+          "personality",
+          "character",
+          "role"
+        ],
+        "correctAnswer": "character"
+      }
+    ]
+  },
+  {
+    "name": "Level 7: Proficiency C2 (Test 2)",
+    "id": "C2T2",
+    "questions": [
+      {
+        "id": "C2_2_1",
+        "type": "MULTIPLE_CHOICE",
+        "question": "_____, don’t tell anybody about our plans for a merger.",
+        "options": [
+          "However you do",
+          "What thing you do",
+          "Whatever you do",
+          "Whichever to do"
+        ],
+        "correctAnswer": "Whatever you do"
+      },
+      {
+        "id": "C2_2_2",
+        "type": "MULTIPLE_CHOICE",
+        "question": "The thought of spending a night in the so-called ‘haunted’ house alone made him ____ with fear.",
+        "options": [
+          "burp",
+          "shudder",
+          "blink",
+          "swallow"
+        ],
+        "correctAnswer": "shudder"
+      },
+      {
+        "id": "C2_2_3",
+        "type": "MULTIPLE_CHOICE",
+        "question": "____ that they booed her off the stage.",
+        "options": [
+          "She sang such badly",
+          "So badly she sang",
+          "So she sang badly",
+          "So badly did she sing"
+        ],
+        "correctAnswer": "So badly did she sing"
+      },
+      {
+        "id": "C2_2_4",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Well, you finally managed to get here; it’s ____ time!",
+        "options": [
+          "excessive",
+          "about",
+          "over",
+          "more than"
+        ],
+        "correctAnswer": "about"
+      },
+      {
+        "id": "C2_2_5",
+        "type": "MULTIPLE_CHOICE",
+        "question": "_____ at home, she left a note on the front door.",
+        "options": [
+          "Realising there was nobody",
+          "By realising nobody was",
+          "Realised nobody was",
+          "On realised there wasn’t anybody"
+        ],
+        "correctAnswer": "Realising there was nobody"
+      },
+      {
+        "id": "C2_2_6",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I don’t know where he is; he ____ over an hour ago.",
+        "options": [
+          "could arrive",
+          "might be arrived",
+          "should have arrived",
+          "must have arrived"
+        ],
+        "correctAnswer": "should have arrived"
+      },
+      {
+        "id": "C2_2_7",
+        "type": "MULTIPLE_CHOICE",
+        "question": "What are the chances they ____ the job by Friday?",
+        "options": [
+          "will have been finishing",
+          "are finishing",
+          "are going to be finished",
+          "will have finished"
+        ],
+        "correctAnswer": "will have finished"
+      },
+      {
+        "id": "C2_2_8",
+        "type": "MULTIPLE_CHOICE",
+        "question": "If you ____, drop in for a chat.",
+        "options": [
+          "will be passing",
+          "should happen to be passing",
+          "happened to pass",
+          "have passed"
+        ],
+        "correctAnswer": "should happen to be passing"
+      },
+      {
+        "id": "C2_2_9",
+        "type": "MULTIPLE_CHOICE",
+        "question": "There have been a few complaints but ____ our customers are satisfied.",
+        "options": [
+          "above all",
+          "no matter how",
+          "by and large",
+          "within reason"
+        ],
+        "correctAnswer": "by and large"
+      },
+      {
+        "id": "C2_2_10",
+        "type": "MULTIPLE_CHOICE",
+        "question": "As this is only a reproduction of the original painting, it is practically ___.",
+        "options": [
+          "priceless",
+          "worthless",
+          "invaluable",
+          "unworthy"
+        ],
+        "correctAnswer": "worthless"
+      },
+      {
+        "id": "C2_2_11",
+        "type": "MULTIPLE_CHOICE",
+        "question": "He promised to stick by her through ___.",
+        "options": [
+          "spick and span",
+          "odds and ends",
+          "thick and thin",
+          "bad and good"
+        ],
+        "correctAnswer": "thick and thin"
+      },
+      {
+        "id": "C2_2_12",
+        "type": "MULTIPLE_CHOICE",
+        "question": "____ for him, we surely would have missed our flight.",
+        "options": [
+          "Unless we waited",
+          "Had we waited any longer",
+          "If we were to wait",
+          "Should we wait"
+        ],
+        "correctAnswer": "Had we waited any longer"
+      },
+      {
+        "id": "C2_2_13",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Matters finally ____ at the office and they fired him.",
+        "options": [
+          "hit the roof",
+          "tore off a strip",
+          "brought to a boil",
+          "came to a head"
+        ],
+        "correctAnswer": "came to a head"
+      },
+      {
+        "id": "C2_2_14",
+        "type": "MULTIPLE_CHOICE",
+        "question": "When they speak about physics, I’m afraid it’s all over ____.",
+        "options": [
+          "my brain",
+          "my schooling",
+          "my head",
+          "my knowledge"
+        ],
+        "correctAnswer": "my head"
+      },
+      {
+        "id": "C2_2_15",
+        "type": "MULTIPLE_CHOICE",
+        "question": "The shirt looks small but the material ____ to fit the individual.",
+        "options": [
+          "swells",
+          "stretches",
+          "spreads",
+          "extends"
+        ],
+        "correctAnswer": "stretches"
+      },
+      {
+        "id": "C2_2_16",
+        "type": "MULTIPLE_CHOICE",
+        "question": "When he turned on the tap, the water ____ out and soaked the front of his trousers.",
+        "options": [
+          "dripped",
+          "spurted",
+          "trickled",
+          "oozed"
+        ],
+        "correctAnswer": "spurted"
+      },
+      {
+        "id": "C2_2_17",
+        "type": "MULTIPLE_CHOICE",
+        "question": "They hadn’t _____ there being so much traffic and missed their plane.",
+        "options": [
+          "caught on",
+          "dreamed up",
+          "bargained on",
+          "set out"
+        ],
+        "correctAnswer": "bargained on"
+      },
+      {
+        "id": "C2_2_18",
+        "type": "MULTIPLE_CHOICE",
+        "question": "The conference was going well until a new manager gave a speech that was _______ and boring.",
+        "options": [
+          "loose-lipped",
+          "off the order",
+          "overtime",
+          "long-winded"
+        ],
+        "correctAnswer": "long-winded"
+      },
+      {
+        "id": "C2_2_19",
+        "type": "MULTIPLE_CHOICE",
+        "question": "The holiday didn’t ____ to their expectations.",
+        "options": [
+          "come up",
+          "get down",
+          "bring up",
+          "come down"
+        ],
+        "correctAnswer": "come up"
+      },
+      {
+        "id": "C2_2_20",
+        "type": "MULTIPLE_CHOICE",
+        "question": "I’m afraid Joe is _____ of a nervous breakdown.",
+        "options": [
+          "on the blink",
+          "under jeopardy",
+          "on the verge",
+          "from scratch"
+        ],
+        "correctAnswer": "on the verge"
+      },
+      {
+        "id": "C2_2_21",
+        "type": "MULTIPLE_CHOICE",
+        "question": "We’ll have to ______ the many candidates and see who is the most suited for the job.",
+        "options": [
+          "strip down",
+          "see through",
+          "sift through",
+          "take away"
+        ],
+        "correctAnswer": "sift through"
+      },
+      {
+        "id": "C2_2_22",
+        "type": "MULTIPLE_CHOICE",
+        "question": "After losing the contract, the company decided to ____ on inefficiency.",
+        "options": [
+          "make up",
+          "get rid",
+          "come down",
+          "crack down"
+        ],
+        "correctAnswer": "crack down"
+      },
+      {
+        "id": "C2_2_23",
+        "type": "MULTIPLE_CHOICE",
+        "question": "At the moment, there is little ____ of the manager resigning.",
+        "options": [
+          "means",
+          "trace",
+          "probably",
+          "likelihood"
+        ],
+        "correctAnswer": "likelihood"
+      },
+      {
+        "id": "C2_2_24",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Their state-of-the-art website ____ thinking it was a reputable company.",
+        "options": [
+          "fooled us into",
+          "put us over",
+          "caused us to",
+          "brought us into"
+        ],
+        "correctAnswer": "fooled us into"
+      },
+      {
+        "id": "C2_2_25",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Mark suddenly started insulting the customer. It was so out of ____ that everybody was shocked!",
+        "options": [
+          "role",
+          "bounds",
+          "character",
+          "personality"
+        ],
+        "correctAnswer": "character"
+      },
+      {
+        "id": "C2_2_26",
+        "type": "MULTIPLE_CHOICE",
+        "question": "They decided to celebrate by going out and ____.",
+        "options": [
+          "getting on cloud nine",
+          "seeing the light at the end of the tunnel",
+          "painting the town red",
+          "getting over the moon"
+        ],
+        "correctAnswer": "painting the town red"
+      },
+      {
+        "id": "C2_2_27",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Oh no! It looks like the rain has ____ for the day.",
+        "options": [
+          "broken out",
+          "brought on",
+          "set in",
+          "taken on"
+        ],
+        "correctAnswer": "set in"
+      },
+      {
+        "id": "C2_2_28",
+        "type": "MULTIPLE_CHOICE",
+        "question": "Don’t worry! I know the speech ____.",
+        "options": [
+          "on the tip of my tongue",
+          "by heart",
+          "on my mind",
+          "off my head"
+        ],
+        "correctAnswer": "by heart"
+      }
+    ]
+  }
+]
